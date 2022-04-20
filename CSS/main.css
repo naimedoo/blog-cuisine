@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Oswald";
+    src:  url('./../font/Oswald/static/Oswald-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+   }
+
+   @font-face {
+    font-family: "Courgette";
+    src: url('./../font/Courgette-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+   }
+
+*, 
+::before, 
+::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+label {
+    font-weight: bold;
+}
+footer {
+    background-color: black;
+    padding: 70px;
+}
+
+
+
+
+
